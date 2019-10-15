@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493389069 source:h:\date test\time\main.cpp
+	<iostream>
+	"Time.h"
+
+1493388888 source:h:\date test\time\src\time.cpp
+	<iostream>
+	"Time.h"
+
+1493388864 h:\date test\time\include\time.h
+

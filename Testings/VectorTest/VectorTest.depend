@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1493450291 source:h:\date test\vectortest\src\date.cpp
+	"Date.h"
+
+1493450310 h:\date test\vectortest\include\date.h
+
+1493450372 source:h:\date test\vectortest\src\time.cpp
+	"Time.h"
+
+1493450388 h:\date test\vectortest\include\time.h
+
+1493450451 source:h:\date test\vectortest\src\weatherlog.cpp
+	"WeatherLog.h"
+
+1493450450 h:\date test\vectortest\include\weatherlog.h
+	"Date.h"
+	"Time.h"
+
+1493450492 source:h:\date test\vectortest\src\windlogvector.cpp
+	<iostream>
+	"WindLogVector.h"
+
+1493450524 h:\date test\vectortest\include\windlogvector.h
+	"WeatherLog.h"
+	"Vector.h"
+
+1493450343 h:\date test\vectortest\include\vector.h
+

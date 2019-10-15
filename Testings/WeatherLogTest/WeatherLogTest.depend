@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1493389893 source:h:\date test\weatherlogtest\main.cpp
+	<iostream>
+	"WeatherLog.h"
+	"Date.h"
+	"Time.h"
+
+1493389209 h:\date test\weatherlogtest\include\weatherlog.h
+	"Date.h"
+	"Time.h"
+
+1493389500 h:\date test\weatherlogtest\include\date.h
+
+1493389923 h:\date test\weatherlogtest\include\time.h
+
+1493389500 source:h:\date test\weatherlogtest\src\date.cpp
+	"Date.h"
+
+1493389549 source:h:\date test\weatherlogtest\src\time.cpp
+	"Time.h"
+
+1493389209 source:h:\date test\weatherlogtest\src\weatherlog.cpp
+	"WeatherLog.h"
+

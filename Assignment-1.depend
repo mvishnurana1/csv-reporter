@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1493174759 source:c:\users\garima rana\pictures\c++ programs\assignment-1\time.cpp
+	"Time.h"
+
+1493219443 c:\users\garima rana\pictures\c++ programs\assignment-1\time.h
+
+1493298811 source:c:\users\garima rana\pictures\c++ programs\assignment-1\date.cpp
+	"Date.h"
+
+1493213786 c:\users\garima rana\pictures\c++ programs\assignment-1\date.h
+
+1493379832 source:c:\users\garima rana\pictures\c++ programs\assignment-1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	"WindLogVector.h"
+
+1493371576 source:c:\users\garima rana\pictures\c++ programs\assignment-1\weatherlog.cpp
+	"WeatherLog.h"
+
+1493379395 c:\users\garima rana\pictures\c++ programs\assignment-1\weatherlog.h
+	"Date.h"
+	"Time.h"
+
+1493378395 source:c:\users\garima rana\pictures\c++ programs\assignment-1\windlogvector.cpp
+	<iostream>
+	"WindLogVector.h"
+
+1493380699 c:\users\garima rana\pictures\c++ programs\assignment-1\windlogvector.h
+	"WeatherLog.h"
+	"Vector.h"
+
+1493380115 c:\users\garima rana\pictures\c++ programs\assignment-1\vector.h
+
+1493467181 source:c:\users\32879349\desktop\assignment-1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	"WindLogVector.h"
+
+1493380700 c:\users\32879349\desktop\assignment-1\windlogvector.h
+	"WeatherLog.h"
+	"Vector.h"
+
+1493382444 c:\users\32879349\desktop\assignment-1\weatherlog.h
+	"Date.h"
+	"Time.h"
+
+1493213788 c:\users\32879349\desktop\assignment-1\date.h
+
+1493219444 c:\users\32879349\desktop\assignment-1\time.h
+
+1493380116 c:\users\32879349\desktop\assignment-1\vector.h
+
+1493464782 source:c:\users\32879349\desktop\assignment-1\src\date.cpp
+	"Date.h"
+
+1493463323 c:\users\32879349\desktop\assignment-1\include\date.h
+
+1493449059 source:c:\users\32879349\desktop\assignment-1\src\time.cpp
+	"Time.h"
+
+1493449082 c:\users\32879349\desktop\assignment-1\include\time.h
+
+1493456019 source:c:\users\32879349\desktop\assignment-1\src\weatherlog.cpp
+	"WeatherLog.h"
+
+1493456019 c:\users\32879349\desktop\assignment-1\include\weatherlog.h
+	"Date.h"
+	"Time.h"
+
+1493460043 source:c:\users\32879349\desktop\assignment-1\src\windlogvector.cpp
+	"WindLogVector.h"
+
+1493449188 c:\users\32879349\desktop\assignment-1\include\windlogvector.h
+	"WeatherLog.h"
+	"Vector.h"
+
+1493463336 c:\users\32879349\desktop\assignment-1\include\vector.h
+
